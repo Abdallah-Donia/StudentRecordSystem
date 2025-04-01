@@ -1,0 +1,25 @@
+﻿Build started 1/24/2020 7:02:27 PM.
+     1>Project "C:\Users\abdod\OneDrive\Desktop\Student Record System\Student Record System\Student Record System.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Student Record System.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Student Record System.vcxproj -> C:\Users\abdod\OneDrive\Desktop\Student Record System\Debug\Student Record System.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Student Record System.unsuccessfulbuild".
+         Touching "Debug\Student Record System.lastbuildstate".
+     1>Done Building Project "C:\Users\abdod\OneDrive\Desktop\Student Record System\Student Record System\Student Record System.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
