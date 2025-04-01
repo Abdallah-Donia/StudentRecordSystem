@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,12 @@
 *.exe
 *.out
 *.app
+=======
+Debug/
+*.sdf
+*.suo
+*.exe
+*.o
+*.out
+*.log
+>>>>>>> 90ad293 (Added .gitignore to exclude unnecessary files)
